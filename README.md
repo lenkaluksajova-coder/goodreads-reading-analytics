@@ -7,8 +7,6 @@
 
 > An end-to-end data analytics project built in Power BI, transforming a Goodreads export into an interactive dashboard through data enrichment, modeling, DAX, and storytelling.
 
-![Dashboard Overview](assets/dashboard-overview.png)
-
 ---
 
 # 📖 Project Overview
